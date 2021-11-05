@@ -5,4 +5,4 @@
 *.o
 *.order
 *.symvers
-hello_world/hello_world.mod.c
+*.mod.c
